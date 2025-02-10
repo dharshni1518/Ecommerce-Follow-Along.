@@ -19,10 +19,3 @@ module.exports = {
   },
   plugins: [],
 };
-
-
-
-
-
-
-
